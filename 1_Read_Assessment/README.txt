@@ -1,0 +1,1 @@
+Run scripts in directory containing paired reads in folders named after STRAIN. 
